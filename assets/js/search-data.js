@@ -325,15 +325,59 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-a-straightforward-guide-to-setup-tensorflow-gpu-on-linux",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'A Straightforward Guide to Setup tensorflow-gpu on Linux <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://medium.com/@aaron_imn/a-straightforward-guide-to-setup-tensorflow-gpu-on-linux-2d6cb4c9f469?source=rss-744b56d22dc5------2", "_blank");
+          
+        },
+      },{id: "post-how-to-create-a-modern-cv-for-free-on-overleaf",
+        
+          title: 'How to Create a Modern CV For FREE On Overleaf <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@aaron_imn/how-to-create-a-modern-cv-for-free-on-overleaf-67c634d471d1?source=rss-744b56d22dc5------2", "_blank");
+          
+        },
+      },{id: "post-key-thoughts-to-succeed",
+        
+          title: 'Key Thoughts To Succeed <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@aaron_imn/key-thoughts-to-succeed-484bdb3ef300?source=rss-744b56d22dc5------2", "_blank");
+          
+        },
+      },{id: "post-enforce-abstract-methods-signature-to-derived-classes-in-python",
+        
+          title: 'Enforce Abstract Methods Signature To Derived Classes in Python <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@aaron_imn/enforce-abstract-methods-signature-to-derived-classes-in-python-a21414943ce6?source=rss-744b56d22dc5------2", "_blank");
+          
+        },
+      },{id: "post-a-quick-guide-to-use-scalable-vector-graphics-svg-on-overleaf",
+        
+          title: 'A Quick Guide to Use Scalable Vector Graphics (SVG) on Overleaf <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@aaron_imn/a-quick-guide-to-use-scalable-vector-graphics-svg-on-overleaf-ca69448f7177?source=rss-744b56d22dc5------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
