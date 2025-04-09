@@ -555,13 +555,6 @@ ninja.data = [{
           window.open("https://github.com/aaron-imani", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-leetcode',
         title: 'LeetCode',
         section: 'Socials',
