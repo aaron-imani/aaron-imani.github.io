@@ -7,7 +7,7 @@ subtitle: Ph.D. Student, University of California, Irvine
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><i class="fa-solid fa-building-columns"></i> University of California, Irvine</p>
     <p><i class="fa-solid fa-location-dot"></i> Irvine, CA, USA</p>
@@ -31,5 +31,5 @@ I am a second-year Ph.D. student in Software Engineering at the University of Ca
 
 
 <a href="assets/pdf/Resume_Aaron_Imani.pdf" class="btn btn-md btn-primary" target="_blank">
-  <i class="fa-solid fa-file-pdf"></i> <span>Download Résumé</span>
+  <i class="ai ai-cv ai-2xs"></i> <span>Download Résumé</span>
 </a>
