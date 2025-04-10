@@ -28,7 +28,7 @@
       "url": "https://pssglobaltech.com",
       "startDate": "2024-12-01",
       "endDate": "",
-      "summary": "- Contributed to the development of a Dental Office Intelligent Call Center using Rasa Open-source framework.\n- Implemented Retrieval-Augmented Generation (RAG) for a chatbot developed using Rasa Open-source.\n- Enhanced intent classification by 20% using `Sklearn` GridCVClassifier (SVM).\n- Directed student collaborators by assigning tasks and reviewing deliverables.",
+      "summary": "- Contributed to the development of a Dental Office Intelligent Call Center using Rasa Open-source framework.\\n- Implemented Retrieval-Augmented Generation (RAG) for a chatbot developed using Rasa Open-source.\\n- Enhanced intent classification by 20% using Sklearn GridCVClassifier (SVM).\\n- Directed student collaborators by assigning tasks and reviewing deliverables.",
       "highlights": ["Large Language Models (LLMs)", "Natural Language Processing (NLP)", "Machine Learning (ML)"]
     }
   ],

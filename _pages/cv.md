@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
-title: CV
+permalink: /resume/
+title: Résumé
 nav: true
 nav_order: 2
 cv_pdf: Resume_Aaron_Imani.pdf # you can also use external links here
-description: This is the web version of Aaron Imani's CV. You can download the PDF version using the download button above.
+description: Check out my resume here.
 toc:
   sidebar: left
 ---
