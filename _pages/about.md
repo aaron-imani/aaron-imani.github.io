@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Software Engineering Ph.D. student at the University of California, Irvine, where I work under the guidance of Professor Iftekhar Ahmed in the [SEPE lab](https://moshirpour.com). My research focuses on analyzing the impact factors on large language models' code comprehension 🧠. Prior to joining UC Irvine, I completed my master’s degree in software engineering at the University of Calgary.
+I am a second-year Ph.D. student in Software Engineering at the University of California, Irvine, where I work under the guidance of Dr. Mohammad Moshirpour in the [SEPE lab](https://moshirpour.com). My research focuses on analyzing the impact factors on large language models' code comprehension 🧠. Prior to joining UC Irvine, I completed my master’s degree in Software Engineering at the University of Calgary.
 
 
 <a href="assets/pdf/Resume_Aaron_Imani.pdf" class="btn btn-md btn-primary" target="_blank">
