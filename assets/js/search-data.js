@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is the web version of Aaron Imani&#39;s CV. You can download the PDF version using the download button above.",
+        },{id: "nav-résumé",
+          title: "Résumé",
+          description: "Check out my resume here.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resume/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
