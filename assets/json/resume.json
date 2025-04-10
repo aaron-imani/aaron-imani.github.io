@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aaron Imani",
+    "label": "Ph.D. Student in Software Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aaron.imani@uci.edu",
+    "url": "https://aaron-imani.github.io",
+    "summary": "A second-year Ph.D. student in Software Engineering at the University of California, Irvine. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "419 Physical Sciences Quad",
+      "postalCode": "CA 92697",
+      "city": "Irvine",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "aaron_imn",
+        "url": "https://x.com/aaron_imn"
       }
     ]
   },
