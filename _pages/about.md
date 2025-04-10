@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of California, Irvine</p>
-    <p>Irvine, CA, USA</p>
-    <p>aaron [dot] imani [at] uci.edu</p>
+    <p><i class="fa-solid fa-building-columns"></i> University of California, Irvine</p>
+    <p><i class="fa-solid fa-location-dot"></i> Irvine, CA, USA</p>
+    <p><i class="fa-solid fa-envelope"></i> aaron [dot] imani [at] uci [dot] edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
