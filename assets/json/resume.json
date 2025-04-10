@@ -15,7 +15,7 @@
     },
     "profiles": [
       {
-        "network": "X",
+        "network": "Twitter",
         "username": "aaron_imn",
         "url": "https://x.com/aaron_imn"
       }
@@ -23,13 +23,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "PSS Global Tech",
+      "position": "AI Engineer",
+      "url": "https://pssglobaltech.com",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "- Contributed to the development of a Dental Office Intelligent Call Center using Rasa Open-source framework.\n- Implemented Retrieval-Augmented Generation (RAG) for a chatbot developed using Rasa Open-source.\n- Enhanced intent classification by 20% using `Sklearn` GridCVClassifier (SVM).\n- Directed student collaborators by assigning tasks and reviewing deliverables.",
+      "highlights": ["Large Language Models (LLMs)", "Natural Language Processing (NLP)", "Machine Learning (ML)"]
     }
   ],
   "volunteer": [
@@ -176,13 +176,13 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Mohammad Moshirpour",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "Associate Professot at University of California, Irvine."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
+      "name": "Dr. Iftekhar Ahmed",
+      "icon": "fa-solid fa-user-tie",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
