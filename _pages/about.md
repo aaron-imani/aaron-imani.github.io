@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p><i class="fa-solid fa-building-columns"></i> University of California, Irvine</p>
-    <p><i class="fa-solid fa-location-dot"></i> Irvine, CA, USA</p>
-    <p><i class="fa-solid fa-envelope"></i> aaron [dot] imani [at] uci [dot] edu</p>
-
+  more_info:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -27,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I'm a Ph.D. student in Software Engineering at UC Irvine, where I work with [Dr. Mohammad Moshirpour](https://www.linkedin.com/in/moshirpour) in the [SEPE Lab](https://moshirpour.com). My research dives into how different factors affect large language models’ ability to understand code 🧠. Before this, I did my Master’s in Software Engineering at the University of Calgary.
+Hey! I'm a Ph.D. student in Software Engineering at UC Irvine 🇺🇸, where I work with [Dr. Mohammad Moshirpour](https://www.linkedin.com/in/moshirpour) in the [SEPE Lab](https://moshirpour.com). My research dives into how different factors affect large language models’ ability to understand code 🤖💭<i class="fa-sharp fa-solid fa-code"></i>. Before this, I did my Master’s in Software Engineering at the University of Calgary 🇨🇦.
 
-Curious about what I’ve been working on? Feel free to check out my resume using the button below! You can also find a complete list of my peer-reviewed publications [here](/publications).
+Curious about what I’ve been working on? Feel free to check out my résumé using the button below! You can also find a list of my peer-reviewed publications [here](/publications).
 
 <a href="assets/pdf/Resume_Aaron_Imani.pdf" class="btn btn-md btn-primary" target="_blank">
   <strong>Download Résumé</strong>
