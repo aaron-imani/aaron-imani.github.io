@@ -23,10 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I'm a Ph.D. student in Software Engineering at UC Irvine 🇺🇸, where I work with [Dr. Mohammad Moshirpour](https://www.linkedin.com/in/moshirpour) in the [SEPE Lab](https://moshirpour.com). My research dives into how different factors affect large language models’ ability to understand code 🤖💭<i class="fa-sharp fa-solid fa-code"></i>. Before this, I did my Master’s in Software Engineering at the University of Calgary 🇨🇦.
+Hey! I'm a Ph.D. student in Software Engineering at UC Irvine 🇺🇸, where I work with [Dr. Mohammad Moshirpour](https://www.linkedin.com/in/moshirpour) in the [SEPE Lab](https://moshirpour.com). My research dives into interpretable Large language models for code intelligence 🤖💭<i class="fa-sharp fa-solid fa-code"></i>. Before this, I earned my Master’s in Software Engineering at the University of Calgary 🇨🇦.
 
-Curious about what I’ve been working on? Feel free to check out my résumé using the button below! You can also find a list of my peer-reviewed publications [here](/publications).
+Curious about what I’ve been working on? Feel free to check out my CV using the button below! You can also find a list of my peer-reviewed publications [here](/publications).
 
-<a href="assets/pdf/Resume_Aaron_Imani.pdf" class="btn btn-md btn-primary" target="_blank">
-  <strong>Download Résumé</strong>
+<a href="assets/pdf/CV_Aaron_Imani.pdf" class="btn btn-md btn-primary" target="_blank">
+  <strong>Download CV</strong>
 </a>
