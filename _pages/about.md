@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I'm a Ph.D. student in Software Engineering at UC Irvine 🇺🇸, where I work with [Prof. Iftekhar Ahmed](https://www.linkedin.com/in/iftekharahmed1) in the [Stairs Lab](https://stairs.ics.uci.edu). My research dives into utilizing interpretability methods and Reinforcement learning to enhance Large Language Models for code intelligence 🤖💭<i class="fa-sharp fa-solid fa-code"></i>. Prior to this, I completed my Master’s in Software Engineering at the University of Calgary 🇨🇦.
+Hey! I'm a Ph.D. student in Software Engineering at UC Irvine 🇺🇸, where I work with [Prof. Iftekhar Ahmed](https://www.linkedin.com/in/iftekharahmed1) in the [STAIRS Lab](https://stairs.ics.uci.edu). My research dives into utilizing interpretability methods and Reinforcement learning to enhance Large Language Models for code intelligence 🤖💭<i class="fa-sharp fa-solid fa-code"></i>. Prior to this, I completed my Master’s in Software Engineering at the University of Calgary 🇨🇦.
 
 Curious about what I’ve been working on? Feel free to check out my CV using the button below! You can also find a list of my peer-reviewed publications [here](/publications).
 
