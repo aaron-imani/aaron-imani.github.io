@@ -1,4 +1,2 @@
 User-agent: *
 Disallow:
-
-Sitemap: https://aaron-imani.github.io/sitemap.xml
