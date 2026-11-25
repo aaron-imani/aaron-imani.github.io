@@ -1,0 +1,46 @@
+main:
+
+  - title: "Inside Out: Uncovering How Comment Internalization Steers LLMs for Better or Worse"
+    authors: <strong>Aaron Imani</strong>, Mohammad Moshirpour, Iftekhar Ahmed
+    conference_short: ICSE
+    conference: IEEE/ACM International Conference on Software Engineering <strong>(ICSE)</strong>, 2026.
+    pdf: https://doi.org/10.1145/3744916.3787776
+    code: https://github.com/aaron-imani/inside-out
+    others: <a href="https://youtu.be/VHl-DzJizxw" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Video</a>
+    image: ./assets/img/publications/inside-out.png
+
+  - title: "Context Conquers Parameters: Outperforming Proprietary LLM in Commit Message Generation"
+    authors: <strong>Aaron Imani</strong>, Iftekhar Ahmed, Mohammad Moshirpour
+    conference_short: ICSE
+    conference: IEEE/ACM International Conference on Software Engineering <strong>(ICSE)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029724
+    code: https://github.com/aaron-imani/omega
+    others: <a href="https://arxiv.org/abs/2408.02502" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">arXiv</a> <a href="https://youtu.be/ZbPYjwJjKVk" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Video</a>
+    image: ./assets/img/publications/omega.jpg
+
+  - title: "Prompting in the Wild: An Empirical Study of Prompt Evolution in Software Repositories"
+    authors: Mahan Tafreshipour, <strong>Aaron Imani</strong>, Eric Huang, Eduardo Santana de Almeida, Thomas Zimmermann, Iftekhar Ahmed
+    conference_short: MSR
+    conference: IEEE/ACM International Conference on Mining Software Repositories <strong>(MSR)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025760
+    others: <a href="https://arxiv.org/abs/2412.17298" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">arXiv</a>
+    image: ./assets/img/publications/MSR2025.jpg
+
+  - title: "A Data-Centric Approach to Evaluate Requirements Engineering in Multidisciplinary Projects"
+    authors: Ali Salmani, <strong>Alireza Imani</strong>, Majid Bahrehvar, Linda Duffett-Leger, Mohammad Moshirpour
+    conference_short: SMC
+    conference: IEEE International Conference on Systems, Man, and Cybernetics <strong>(SMC)</strong>, 2022.
+    pdf: https://doi.org/10.1109/SMC53654.2022.9945270
+    image: ./assets/img/publications/SMC2022.png
+
+  - title: "An Intelligent Methodology to Enhance Requirements Engineering in Multidisciplinary Projects"
+    authors: Ali Salmani, <strong>Alireza Imani</strong>, Majid Bahrehvar, Linda Duffett-Leger, Mohammad Moshirpour
+    conference_short: CCECE
+    conference: IEEE Canadian Conference on Electrical and Computer Engineering <strong>(CCECE)</strong>, 2022.
+    pdf: https://doi.org/10.1109/CCECE49351.2022.9918286
+
+  - title: "Checklist-based Software Quality Evaluation of Tango Controls"
+    authors: <strong>Alireza Imani</strong>, Mohammad Moshirpour, Leonid Belostotski
+    conference_short: ICISAT
+    conference: International Conference on Information Systems and Advanced Technologies <strong>(ICISAT)</strong>, 2021.
+    pdf: https://doi.org/10.1109/ICISAT54145.2021.9678411
