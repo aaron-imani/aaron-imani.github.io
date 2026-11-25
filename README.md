@@ -7,7 +7,7 @@ Personal website of Aaron Imani, built with the [Minimal Light](https://github.c
 - Publications: `_data/publications.yml` (preview images in `assets/img/publications/`)
 - CV: `assets/files/CV_Aaron_Imani.pdf`
 
-Pushes to `main` are built by `.github/workflows/deploy.yml` and published to the `gh-pages` branch.
+Pushes to `main` are built and deployed to GitHub Pages by `.github/workflows/deploy.yml`.
 
 Local preview:
 
